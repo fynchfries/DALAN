@@ -1,0 +1,1 @@
+-- Seed data is versioned in supabase/migrations/20261014000000_dalan_mvp.sql.
